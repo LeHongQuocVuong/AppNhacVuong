@@ -5,9 +5,13 @@
       <map>
         <entry key="..\:/0_DaiHoc/00_android/code/AppNhacVuong/app/src/main/res/drawable/custom_background_banner.xml" value="0.1" />
         <entry key="..\:/0_DaiHoc/00_android/code/AppNhacVuong/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/0_DaiHoc/00_android/code/AppNhacVuong/app/src/main/res/layout/dong_album.xml" value="0.24615384615384617" />
+        <entry key="..\:/0_DaiHoc/00_android/code/AppNhacVuong/app/src/main/res/layout/dong_bai_hat_hot.xml" value="0.24615384615384617" />
         <entry key="..\:/0_DaiHoc/00_android/code/AppNhacVuong/app/src/main/res/layout/dong_banner.xml" value="0.24615384615384617" />
         <entry key="..\:/0_DaiHoc/00_android/code/AppNhacVuong/app/src/main/res/layout/dong_playlist.xml" value="0.24615384615384617" />
+        <entry key="..\:/0_DaiHoc/00_android/code/AppNhacVuong/app/src/main/res/layout/fragment_album_hot.xml" value="0.24615384615384617" />
         <entry key="..\:/0_DaiHoc/00_android/code/AppNhacVuong/app/src/main/res/layout/fragment_banner.xml" value="0.20104166666666667" />
+        <entry key="..\:/0_DaiHoc/00_android/code/AppNhacVuong/app/src/main/res/layout/fragment_chude_theloai_today.xml" value="0.24615384615384617" />
         <entry key="..\:/0_DaiHoc/00_android/code/AppNhacVuong/app/src/main/res/layout/fragment_playlist.xml" value="0.25" />
         <entry key="..\:/0_DaiHoc/00_android/code/AppNhacVuong/app/src/main/res/layout/fragment_tim_kiem.xml" value="0.24615384615384617" />
         <entry key="..\:/0_DaiHoc/00_android/code/AppNhacVuong/app/src/main/res/layout/fragment_trang_chu.xml" value="0.24615384615384617" />

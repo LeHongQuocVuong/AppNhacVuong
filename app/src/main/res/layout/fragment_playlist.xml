@@ -11,7 +11,7 @@
         android:layout_marginTop="5dp"
         android:layout_marginBottom="15dp"
         android:id="@+id/textviewtitleplaylist"
-        android:text="Top 100 nhạc phim Việt Nam hay nhất"
+        android:text="NHỊP ĐIỆU CẢM XÚC"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <ListView
